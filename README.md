@@ -2,7 +2,7 @@
 
 ### Description Dome
 
-集成了 vue、vuex、router、mint-ui
+集成了 vue、vuex、router、mint-ui、qaxios（封装后 axios）
 
 ## Project setup
 
