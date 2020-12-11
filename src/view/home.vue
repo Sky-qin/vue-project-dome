@@ -31,6 +31,7 @@ export default {
   mounted() {
     console.log("渲染home");
     this.getList();
+    console.log("VUE_APP_SECRET", process.env.VUE_APP_SECRET);
   },
   computed: {
     ...mapGetters(["wall"]),
